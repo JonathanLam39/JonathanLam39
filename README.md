@@ -13,6 +13,7 @@ Come check out my current [Projects](nothing_of_note).
 
 ## 👋🏻 Connect with Me:
 [LinkedIn](https://www.linkedin.com/in/jonathan-lam-ab461b330/).
+
 [Personal Website](unknown_atm).
 <!--
 **JonathanLam39/JonathanLam39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
