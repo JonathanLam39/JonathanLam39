@@ -3,7 +3,7 @@
 I'm Jonathan L, a passionate learner diving into the world of Data Science at RMIT University. With a strong curiosity for machine learning, statistical analysis, and data visualization, I'm excited to explore how data driven insights can solve real world problems.
 
 ## 📚 Projects
-
+Come check out my current [Projects](nothing_of_note).
 ## 🛠️Tools and Skills in progress:
 
 - 🐍 Languages: Python, SQL, R
@@ -12,7 +12,8 @@ I'm Jonathan L, a passionate learner diving into the world of Data Science at RM
 - 🤖 Machine Learning & AI Fundamentals
 
 ## 👋🏻 Connect with Me:
-
+[LinkedIn](https://www.linkedin.com/in/jonathan-lam-ab461b330/).
+[Personal Website](unknown_atm).
 <!--
 **JonathanLam39/JonathanLam39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
