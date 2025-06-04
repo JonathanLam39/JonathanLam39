@@ -2,8 +2,6 @@
 
 📚 Projects
 
-Welcome to my portfolio, where I showcase my portfolio. 
-
 🛠️Tools and Skills in progress:
 
 - 🐍 Languages: Python, SQL, R
