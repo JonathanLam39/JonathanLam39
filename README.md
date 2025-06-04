@@ -1,15 +1,17 @@
-## Hi there 👋I'm Jonathan L, a passionate learner diving into the world of Data Science at RMIT University. With a strong curiosity for machine learning, statistical analysis, and data visualization, I'm excited to explore how data driven insights can solve real world problems.
+## 👋Introducing Myself
 
-📚 Projects
+I'm Jonathan L, a passionate learner diving into the world of Data Science at RMIT University. With a strong curiosity for machine learning, statistical analysis, and data visualization, I'm excited to explore how data driven insights can solve real world problems.
 
-🛠️Tools and Skills in progress:
+## 📚 Projects
+
+## 🛠️Tools and Skills in progress:
 
 - 🐍 Languages: Python, SQL, R
 - 📂 Database: MySQL, SQLite, BigQuery, PostgreSQL
 - 📊 Data Visualization: Matplotlib, Seaborn, Tableau, Looker Studio
 - 🤖 Machine Learning & AI Fundamentals
 
-👋🏻 Connect with Me:
+## 👋🏻 Connect with Me:
 
 <!--
 **JonathanLam39/JonathanLam39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
