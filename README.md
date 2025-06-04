@@ -1,6 +1,7 @@
 ## Hi there 👋I'm Jonathan L, a passionate learner diving into the world of Data Science at RMIT University. With a strong curiosity for machine learning, statistical analysis, and data visualization, I'm excited to explore how data driven insights can solve real world problems.
 
 📚 Projects
+
 Welcome to my portfolio, where I showcase my portfolio. 
 
 🛠️Tools and Skills in progress:
